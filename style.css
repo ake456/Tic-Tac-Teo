@@ -1,0 +1,37 @@
+.game{
+    width: 255px;
+    text-align: center;
+    font-family: system-ui;
+    color: #fff;
+    margin: auto;
+    font-weight: 500;
+}
+.title{
+    background: #0f2b1d;
+    padding: 5px 0;
+    margin: 5px 0;
+}
+span{
+    color: rgb(251, 255, 0);
+}
+
+.squre{
+    width: 80px;
+    height: 80px;
+    background: #0f2b1d;
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+}
+
+.squre:hover {
+    background: #000;
+}
+
+button{
+    width: 80px;
+    height: 40px;
+    background: #0f2b1d;
+    color: white;
+    font-size: 20px;
+}
